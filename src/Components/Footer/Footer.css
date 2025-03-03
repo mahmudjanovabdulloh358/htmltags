@@ -1,0 +1,33 @@
+/* FONT_FAMILY */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+/* FOOTER — SECTION */
+.footer {
+  background-color: #333;
+  color: white;
+  padding: 20px 0;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+/* SOCIAL — ICONS */
+.footer .social-icons {
+  margin: 20px 0;
+}
+/* SOCIAL — ICONS — LINKS */
+.footer .social-icons a {
+  color: white;
+  margin: 0 10px;
+  font-size: 2rem;
+}
+.footer .social-icons a:hover {
+  color: #f39c12;
+}
+/* NAME & AGE */
+.footer .name-age {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 24px;
+  letter-spacing: 1px;
+  color: #009999;
+  text-align: end;
+  margin-right: 15px;
+}

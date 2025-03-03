@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+/* Doctype uchun maxsus dizayn */
+.doctype {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  font-family: "Montserrat", serif;
+}
+
+.doctype h1 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 15px;
+  letter-spacing: 2px;
+}
+.doctype details {
+  background-color: #ffffff;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  letter-spacing: 2px;
+}
+
+.doctype details summary {
+  font-weight: bold;
+  cursor: pointer;
+  color: #007bff;
+}
+
+.doctype details pre .html-code {
+  font-size: 24px;
+}
