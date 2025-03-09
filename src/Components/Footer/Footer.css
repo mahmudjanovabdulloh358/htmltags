@@ -21,13 +21,3 @@
 .footer .social-icons a:hover {
   color: #f39c12;
 }
-/* NAME & AGE */
-.footer .name-age {
-  font-weight: bold;
-  font-size: 24px;
-  line-height: 24px;
-  letter-spacing: 1px;
-  color: #009999;
-  text-align: end;
-  margin-right: 15px;
-}

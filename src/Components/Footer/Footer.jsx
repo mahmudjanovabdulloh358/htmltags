@@ -29,9 +29,6 @@ const Footer = () => {
               huquqlar himoyalangan.
             </span>
           </p>
-          <p className="name-age">
-            <strong>Asoschi</strong>: Abdulloh Mahmudjanov
-          </p>
         </section>
       </div>
     </footer>
